@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.swvxpcj.cn/sitemap.xml
